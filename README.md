@@ -1,3 +1,3 @@
 # BOOtSTRAP-PROJECT
 
--it is simple project using bootstrap, after viewing project you can get it.
+-it is simple project using bootstrap, using HTML, CSS and BOOTSTRAP.
